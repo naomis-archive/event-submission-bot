@@ -19,7 +19,7 @@
     "url": "git+https://github.com/nhcarrigan/event-submission-bot.git"
   },
   "author": "Naomi Carrigan",
-  "license": "MOZ-2.0",
+  "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/nhcarrigan/event-submission-bot/issues"
   },
